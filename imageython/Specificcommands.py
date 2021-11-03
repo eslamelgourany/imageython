@@ -1,5 +1,6 @@
 import cv2
 import os
+from scipy import ndimage
 from .Generalcommands import Loadimages
 
 class Processimages(Loadimages):
