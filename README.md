@@ -10,7 +10,7 @@
 4. [Results](#results)
 
 ### Installation <a name="installation"></a>
-- Download and install a recent version of Python Anaconda distribution.
+- Download and install a recent version of Python Anaconda distribution. (The package depends on os, opencv and scipy) 
 - pip install imageython
 
 ### Project Motivation <a name="motivation"></a>
